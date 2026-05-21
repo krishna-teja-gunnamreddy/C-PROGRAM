@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("7.25");
+    return 0;
+}
